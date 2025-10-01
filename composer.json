@@ -1,13 +1,13 @@
 {
-    "name": "murtaza1904/laravel-roles-permissions",
+    "name": "murtaza1904/roles-permissions",
     "description": "A simple Laravel package to manage user roles and permissions with middleware and artisan commands.",
     "keywords": ["laravel", "roles", "permissions", "authorization"],
     "license": "MIT",
     "version": "1.0.0",
-    "homepage": "https://github.com/murtaza1904/laravel-roles-permissions",
+    "homepage": "https://github.com/murtaza1904/roles-permissions",
     "support": {
-        "issues": "https://github.com/murtaza1904/laravel-roles-permissions/issues",
-        "source": "https://github.com/murtaza1904/laravel-roles-permissions"
+        "issues": "https://github.com/murtaza1904/roles-permissions/issues",
+        "source": "https://github.com/murtaza1904/roles-permissions"
     },
     "authors": [
         {
