@@ -4,10 +4,10 @@
     "keywords": ["laravel", "roles", "permissions", "authorization"],
     "license": "MIT",
     "version": "1.0.0",
-    "homepage": "https://github.com/murtaza1904/roles-permissions",
+    "homepage": "https://github.com/Murtaza1904/roles-permissions",
     "support": {
-        "issues": "https://github.com/murtaza1904/roles-permissions/issues",
-        "source": "https://github.com/murtaza1904/roles-permissions"
+        "issues": "https://github.com/Murtaza1904/roles-permissions/issues",
+        "source": "https://github.com/Murtaza1904/roles-permissions"
     },
     "authors": [
         {

@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace murtaza1904\RolesPermissions\Traits;
+namespace Murtaza1904\RolesPermissions\Traits;
 
-use murtaza1904\RolesPermissions\Models\Role;
+use Murtaza1904\RolesPermissions\Models\Role;
 
 trait HasRoles
 {

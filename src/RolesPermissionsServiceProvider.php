@@ -7,7 +7,7 @@ namespace Murtaza1904\RolesPermissions;
 use Illuminate\Support\Facades\Blade;
 use Illuminate\Support\ServiceProvider;
 
-class RolesPermissionsServiceProvider extends ServiceProvider
+final class RolesPermissionsServiceProvider extends ServiceProvider
 {
     public function boot(): void
     {
@@ -32,7 +32,7 @@ class RolesPermissionsServiceProvider extends ServiceProvider
         // Publish migrations
         $this->publishes([
             __DIR__ . '/../database/migrations/' => database_path('migrations'),
-        ], 'migrations');
+        ], 'roles-permissions-migrations');
 
         // Register middleware aliases
         $this->app['router']->aliasMiddleware('role', \Murtaza1904\RolesPermissions\Http\Middleware\RoleMiddleware::class);

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace murtaza1904\RolesPermissions\Models;
+namespace Murtaza1904\RolesPermissions\Models;
 
 use App\Models\User;
 use Illuminate\Database\Eloquent\Model;
