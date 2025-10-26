@@ -14,7 +14,7 @@ use Illuminate\Database\Eloquent\Relations\BelongsToMany;
  * @property-read Role $roles
  * @property-read User $users
  */
-final class Permission extends Model
+abstract class Permission extends Model
 {
     /**
      * The attributes that are mass assignable.
