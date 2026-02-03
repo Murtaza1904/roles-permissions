@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Muhammad Murtaza
+Copyright (c) 2025 Syed Muhammad Murtaza Kazmi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
