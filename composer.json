@@ -3,7 +3,7 @@
     "description": "A simple Laravel package to manage user roles and permissions with middleware and artisan commands.",
     "keywords": ["laravel", "roles", "permissions", "authorization"],
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "homepage": "https://github.com/Murtaza1904/roles-permissions",
     "support": {
         "issues": "https://github.com/Murtaza1904/roles-permissions/issues",
